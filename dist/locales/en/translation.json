@@ -1,0 +1,52 @@
+{
+    "home" : "Home",
+    "product": "Products",
+    "contactUs": "Contact Us",
+    "blog": "Blogs",
+    "login": "Login",
+
+
+    "tagline": "Revolutionary Technology",
+    "heroTitle": "EXTREME",
+    "heroShine": "PERFORMANCE",
+    "heroDescription": "Experience unparalleled control and precision with our next-generation shock absorbers. Engineered for those who demand excellence in every turn.",
+    "exploreButton": "Explore Collection",
+    "videoButton": "Watch Video",
+
+
+    "ourProducts": "Our Products",
+    "products-subtitle": " Precision-engineered shock absorbers that deliver unmatched performance and reliability for every driving condition.",
+    "seeMore": "See More",
+
+
+
+    "getin": "Get in",
+    "touch": "Touch",
+    "phone-info-title": "Phone",
+    "phone-info-text": "+1 (555) 123-4567",
+    "email-info-title": "Email",
+    "email-info-text": "oattydev@oattydev.online",
+    "address-info-title": "Address",
+    "address-info-text": "123 Performance Drive, Speed City, SC 12345",
+    "submit-btn": "Send Message",
+
+
+    "shindo": "SHINDO",
+    "shocks": "SHOCKS",
+    "footerDes": "The leader in shock absorbers is the first in our product rangeand offers technology that meets the needs of your sport, touring,or exploration professional Confidently on every route withguaranteed quality with international standards.",
+    "quickLink": "Quick link",
+    "aboutUs": "About Us",
+    "shop": "Shop",
+    "information": "Information",
+    "privacy": "Privacy Policy",
+    "terms": "Terms Of Service",
+    "return": "Returns and Refunds",
+    "shipping": "Shipping Policy",
+    "covid": "COVID-19 Update",
+
+    "contact": "Contact us!",
+    "contactAddress": "651 North Board Street, Bangkok 204 #1150, HeavenTown, DE, 511323",
+    "contactPhone": "Phone: 1+ (302) 123-1798",
+    "contactEmail": "Email: oattydev@oattydev.online",
+    "storeTime": "Store hours: 9:00am-8:00pm M-F"
+}
